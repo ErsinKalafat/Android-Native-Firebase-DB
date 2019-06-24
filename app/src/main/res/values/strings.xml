@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">YazLabProje3</string>
+    <string name="kullaniciadi">Kullanıcı Adı</string>
+    <string name="parola">Parola</string>
+    <string name="anaBaslik">Akıllı Reklam Yönetim Sistemi</string>
+    <string name="btnKaydol">Kayıt Ol</string>
+    <string name="kaydolBaslik">Kayıt Ol</string>
+    <string name="listeBasligi">Yakınlardaki Reklamlar</string>
+    <string name="btnGiris">Giriş Yap</string>
+    <string name="girisBaslik">Giriş Yap</string>
+    <string name="btnSayfaKaydol">veya Kayıt için tıkla!</string>
+    <string name="btnSayfaGirisyap">Giriş Yap!</string>
+    <string name="oturumIsmi">Oturum İsmi</string>
+    <string name="homeEkleButonu">Yeni Reklam Ekle</string>
+    <string name="homeListeButonu">Reklamları Gör</string>
+    <string name="yeniReklam">Yeni Reklam</string>
+    <string name="reklamEkle">Ekle</string>
+</resources>

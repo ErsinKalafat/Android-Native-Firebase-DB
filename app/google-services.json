@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "290034875601",
+    "firebase_url": "https://yazlab3-ersin-sema.firebaseio.com",
+    "project_id": "yazlab3-ersin-sema",
+    "storage_bucket": "yazlab3-ersin-sema.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290034875601:android:1ba22a69d91227ca",
+        "android_client_info": {
+          "package_name": "com.example.yazlabproje3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290034875601-4udnbnp8pjgjii40a29srmokikujl52u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yazlabproje3",
+            "certificate_hash": "b60bfdf2c60122670c09a7d1663725fb45cf5614"
+          }
+        },
+        {
+          "client_id": "290034875601-h6d71fnnlo8ikgf5b2u7i2cdc0uhrd80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbrU2jFYnMnru6M5ITdz4dETlVm_Zz7ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290034875601-h6d71fnnlo8ikgf5b2u7i2cdc0uhrd80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
